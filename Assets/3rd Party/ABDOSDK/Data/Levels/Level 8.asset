@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9596e7c280224bb1972a87f350df5d3, type: 3}
+  m_Name: Level 8
+  m_EditorClassIdentifier: 
+  index: 8
+  description: Deneme
+  levelPrefab: {fileID: 4600392566156870272, guid: f4f380c3ee97e314797366509f6e72d1,
+    type: 3}
